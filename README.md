@@ -1,2 +1,2 @@
-<!-- ### - [Language Card React](https://yasinyagmur.github.io/languagecard-react/) -->
+### - [Language Card React](https://languagescards-react.netlify.app/)
 ![](./image/languagescard-gif.gif)
